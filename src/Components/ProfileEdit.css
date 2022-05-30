@@ -1,0 +1,57 @@
+/* custom css */
+
+.title-text {
+    margin-top: 15px;
+}
+
+.user-content {
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.user-content .ant-input-number{
+    width: 70%;
+}
+
+.user-content .ant-select{
+    width: 70%;
+}
+
+.user-content .ant-input{
+    width: 70%;
+}
+
+.action-btns{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.action-btns .action-btn{
+    color: #fff;
+    background-color: rgb(76, 77, 158) ;
+}
+
+.action-btns .action-btn:hover{
+    background-color: rgb(76, 77, 158,0.8);
+}
+
+
+
+/* ant design classes */
+
+
+.user-content .edit-btn {
+    border: 1px solid rgb(76, 77, 158) ;
+    background-color: #fff;
+    color: rgb(76, 77, 158);
+    margin: auto;
+    margin-left: 15px;
+}
+
+.edit-btn:hover {
+    color: #fff ;
+    background-color: rgb(76, 77, 158);
+}
+

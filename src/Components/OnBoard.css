@@ -1,0 +1,58 @@
+
+ 
+ /* custom css classes */
+
+.btn-div{
+    text-align: center;
+  }
+
+/* ant design classes */
+
+.ant-form{
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+  
+.age-input{
+    width: 100%;
+    
+}
+  .ant-btn {
+    background-color: rgb(76, 77, 158);
+    border-radius: 4px;
+    border: none;
+    width: 30%;
+    margin-top: 10px;
+  }
+  
+  .ant-btn:hover{
+    background-color: rgb(76, 77, 158,0.8);
+  }
+  
+  
+  .ant-form-item{
+    margin-bottom: 32px;
+  }
+  
+  
+  
+  .ant-form-item-with-help{
+    margin-bottom: 8px;
+  }
+  
+  .ant-form-item-label{
+    text-align: left;
+    margin-right: 10px;
+    
+  }
+  
+  
+  
+  h1.ant-typography{
+    margin-bottom: 3rem;
+    text-align: center;
+  }
+  
+  
+  
